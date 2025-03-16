@@ -25,7 +25,7 @@ namespace DoctorAppointmentDemo.Data.Repositories
 
         public override void ShowInfo(Doctor doctor)
         {
-            Console.WriteLine(); // implement view of all object fields
+            Console.WriteLine(); 
         }
 
         protected override void SaveLastId()
