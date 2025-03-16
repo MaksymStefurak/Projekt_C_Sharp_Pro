@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Sharp_Projekt\\Projekt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\configuration\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\configuration\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.domain\\enums\\illnesstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|solutionrelative:doctorappointmentdemo.domain\\enums\\illnesstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|solutionrelative:doctorappointmentdemo.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.domain\\entities\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|solutionrelative:doctorappointmentdemo.domain\\entities\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|solutionrelative:doctorappointmentdemo.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.domain\\entities\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|solutionrelative:doctorappointmentdemo.domain\\entities\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.service\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.service\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.service\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.service\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.service\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.service\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\configuration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\configuration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB0B2E4-254F-4570-B475-16B2503AD2E4}|Projekt1\\DoctorAppointmentDemo.UI.csproj|d:\\c_sharp_projekt\\projekt1\\projekt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB0B2E4-254F-4570-B475-16B2503AD2E4}|Projekt1\\DoctorAppointmentDemo.UI.csproj|solutionrelative:projekt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\mockeddatabase\\doctors.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\mockeddatabase\\doctors.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.service\\doctorappointmentdemo.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10530539-243F-43C4-8C7E-38F22816D7D1}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\doctorappointmentdemo.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoctorAppointmentDemo.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|solutionrelative:doctorappointmentdemo.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\doctorappointmentdemo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\doctorappointmentdemo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\mockeddatabase\\patients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\mockeddatabase\\patients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.data\\mockeddatabase\\appointments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D6BEAF-43C3-4BAB-BD6B-E8D0B69DCB01}|DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj|solutionrelative:doctorappointmentdemo.data\\mockeddatabase\\appointments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|d:\\c_sharp_projekt\\projekt1\\doctorappointmentdemo.domain\\enums\\doctortypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C046B5FE-2EAF-4AA6-8ABE-1567B5CCB9AE}|DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj|solutionrelative:doctorappointmentdemo.domain\\enums\\doctortypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:19:39.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:17:05.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:13:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Interfaces\\IPatientService.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:11:00.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:43:00.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:55:03.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Domain\\Entities\\Patient.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:43:27.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Auditable.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Domain\\Entities\\Auditable.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Auditable.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Domain\\Entities\\Auditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:42:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserBase.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\UserBase.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Domain\\Entities\\UserBase.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\UserBase.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Domain\\Entities\\UserBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:43:41.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:48:11.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IllnessTypes.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Enums\\IllnessTypes.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Domain\\Enums\\IllnessTypes.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Enums\\IllnessTypes.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Domain\\Enums\\IllnessTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:44:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:55:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constans.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Configuration\\Constans.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Configuration\\Constans.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Configuration\\Constans.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Configuration\\Constans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:47:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:20:11.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Service\\PatientService.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Service\\PatientService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Service\\PatientService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:23:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Service\\AppointmentService.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Service\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:23:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Interfaces\\IDoctorRepository.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Interfaces\\IDoctorRepository.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Interfaces\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:47:44.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:11:28.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Service\\DoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Service\\DoctorService.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Service\\DoctorService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Service\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:46:29.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:46:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "doctors.json",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\MockedDatabase\\doctors.json",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\MockedDatabase\\doctors.json",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\MockedDatabase\\doctors.json",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\MockedDatabase\\doctors.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T14:57:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\Projekt1\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt1\\Program.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\Projekt1\\Program.cs",
+              "RelativeToolTip": "Projekt1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:28:46.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:43:12.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALUUAAAAAAAAAAAlwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-16T17:12:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Configuration\\appsettings.json",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\Configuration\\appsettings.json",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\Configuration\\appsettings.json",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\Configuration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T15:01:16.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoctorAppointmentDemo.Service",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T17:48:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appointments.json",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\MockedDatabase\\appointments.json",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\MockedDatabase\\appointments.json",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\MockedDatabase\\appointments.json",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\MockedDatabase\\appointments.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T14:57:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.UI\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.UI\\Program.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.UI\\Program.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:44:29.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoctorAppointmentDemo.Data.csproj",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T17:31:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "patients.json",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\MockedDatabase\\patients.json",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Data\\MockedDatabase\\patients.json",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Data\\MockedDatabase\\patients.json",
+              "RelativeToolTip": "DoctorAppointmentDemo.Data\\MockedDatabase\\patients.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T14:58:03.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DoctorTypes.cs",
+              "DocumentMoniker": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Enums\\DoctorTypes.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Domain\\Enums\\DoctorTypes.cs",
+              "ToolTip": "D:\\C_Sharp_Projekt\\Projekt1\\DoctorAppointmentDemo.Domain\\Enums\\DoctorTypes.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Domain\\Enums\\DoctorTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:44:18.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

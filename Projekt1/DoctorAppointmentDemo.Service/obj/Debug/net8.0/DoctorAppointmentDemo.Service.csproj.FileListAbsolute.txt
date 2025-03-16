@@ -1,0 +1,17 @@
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Service.deps.json
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Service.dll
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Data.dll
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Data.pdb
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.csproj.AssemblyReference.cache
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.AssemblyInfoInputs.cache
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.AssemblyInfo.cs
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAp.D4975B89.Up2Date
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.dll
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Service.dll
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Service.dll
