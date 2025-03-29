@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<Database>
+		<Doctors>
+			<LastId>10</LastId>
+			<Path>D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Data\MockedDatabase\doctors.xml</Path>
+		</Doctors>
+	</Database>
+</configuration>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Doctors>
+	<Doctor>
+		<DoctorType>1</DoctorType>
+		<Experience>20</Experience>
+		<Salary>0.0</Salary>
+		<Name>Vasya</Name>
+		<Surname>Petrov</Surname>
+		<Phone>null</Phone>
+		<Email>null</Email>
+		<Id>2</Id>
+		<CreatedAt>2024-01-04T21:15:00.5742047+02:00</CreatedAt>
+		<UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+	</Doctor>
+</Doctors>

@@ -22,3 +22,4 @@ D:\C_Sharp_Projekt\Projekt1\Projekt1\bin\Debug\net8.0\DoctorAppointmentDemo.UI.d
 D:\C_Sharp_Projekt\Projekt1\Projekt1\bin\Debug\net8.0\DoctorAppointmentDemo.UI.pdb
 D:\C_Sharp_Projekt\Projekt1\Projekt1\obj\Debug\net8.0\DoctorAppointmentDemo.UI.genruntimeconfig.cache
 D:\C_Sharp_Projekt\Projekt1\Projekt1\obj\Debug\net8.0\ref\DoctorAppointmentDemo.UI.dll
+D:\C_Sharp_Projekt\Projekt1\Projekt1\obj\Debug\net8.0\DoctorAppointmentDemo.UI.sourcelink.json

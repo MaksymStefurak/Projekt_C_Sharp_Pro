@@ -8,6 +8,15 @@ namespace DoctorAppointmentDemo.Data.Repositories
 {
     public abstract class GenericRepository<TSource> : IGenericRepository<TSource> where TSource : Auditable
     {
+        public string appSettings;
+        private ISerializationService serializationService;
+
+        protected GenericRepository(string appSettings, ISerializationService serializationService)
+        {
+            this.appSettings = appSettings;
+            this.serializationService = serializationService;
+        }
+
         public abstract string Path { get; set; }
 
         public abstract int LastId { get; set; }
@@ -70,7 +79,7 @@ namespace DoctorAppointmentDemo.Data.Repositories
 
         protected abstract void SaveLastId();
 
-        protected dynamic ReadFromAppSettings() => JsonConvert.DeserializeObject<dynamic>(File.ReadAllText(Constants.AppSettingsPath))!;
+        protected dynamic ReadFromAppSettings() => JsonConvert.DeserializeObject<dynamic>(File.ReadAllText(appSettings))!;
 
     }
 }

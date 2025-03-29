@@ -1,0 +1,14 @@
+[
+  {
+    "DoctorType": 2,
+    "Experience": 0,
+    "Salary": 0.0,
+    "Name": "MS",
+    "Surname": "ST",
+    "Phone": null,
+    "Email": null,
+    "Id": 0,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

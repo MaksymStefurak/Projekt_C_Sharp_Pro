@@ -48,18 +48,6 @@
     "UpdatedAt": "0001-01-01T00:00:00"
   },
   {
-    "DoctorType": 4,
-    "Experience": 0,
-    "Salary": 0.0,
-    "Name": "Vasya",
-    "Surname": "Petrov",
-    "Phone": null,
-    "Email": null,
-    "Id": 6,
-    "CreatedAt": "2025-03-16T20:01:13.8650547+02:00",
-    "UpdatedAt": "0001-01-01T00:00:00"
-  },
-  {
     "DoctorType": 1,
     "Experience": 0,
     "Salary": 0.0,
@@ -67,8 +55,44 @@
     "Surname": "St",
     "Phone": null,
     "Email": null,
-    "Id": 7,
-    "CreatedAt": "2025-03-16T20:01:36.8227728+02:00",
+    "Id": 8,
+    "CreatedAt": "2025-03-29T00:21:36.93545+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 4,
+    "Experience": 0,
+    "Salary": 0.0,
+    "Name": "Lena",
+    "Surname": "Gl",
+    "Phone": null,
+    "Email": null,
+    "Id": 9,
+    "CreatedAt": "2025-03-29T00:22:15.4654161+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 0,
+    "Salary": 0.0,
+    "Name": "MS",
+    "Surname": "ST",
+    "Phone": null,
+    "Email": null,
+    "Id": 11,
+    "CreatedAt": "2025-03-29T00:58:08.3466284+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 0,
+    "Salary": 0.0,
+    "Name": "TS",
+    "Surname": "ST",
+    "Phone": null,
+    "Email": null,
+    "Id": 12,
+    "CreatedAt": "2025-03-29T01:58:10.7776946+02:00",
     "UpdatedAt": "0001-01-01T00:00:00"
   }
 ]

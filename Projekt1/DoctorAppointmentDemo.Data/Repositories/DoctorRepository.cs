@@ -11,13 +11,15 @@ namespace DoctorAppointmentDemo.Data.Repositories
 {
     public class DoctorRepository : GenericRepository<Doctor>, IDoctorRepository
     {
+        private readonly ISerializationService serializationService;
         public override string Path { get; set; }
 
         public override int LastId { get; set; }
 
-        public DoctorRepository()
+        public DoctorRepository(string appSettingsPath, ISerializationService serializationService): base(appSettingsPath, serializationService)
         {
-            dynamic result = ReadFromAppSettings();
+            this. serializationService = serializationService;
+            var result = ReadFromAppSettings();
 
             Path = result.Database.Doctors.Path;
             LastId = result.Database.Doctors.LastId;
@@ -30,10 +32,11 @@ namespace DoctorAppointmentDemo.Data.Repositories
 
         protected override void SaveLastId()
         {
-            dynamic result = ReadFromAppSettings();
+            var result = ReadFromAppSettings();
             result.Database.Doctors.LastId = LastId;
+            serializationService.Serialize(appSettings, result);
 
-            File.WriteAllText(Constants.AppSettingsPath, result.ToString());
+            //File.WriteAllText(Constants.AppSettingsPath, result.ToString());
         }
     }
 }

@@ -3,6 +3,7 @@ using DoctorAppointmentDemo.Domain.Entities;
 using DoctorAppointmentDemo.Service.Interfaces;
 using DoctorAppointmentDemo.Data.Interfaces;
 using DoctorAppointmentDemo.Data.Repositories;
+using DoctorAppointmentDemo.Data.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,11 @@ namespace DoctorAppointmentDemo.Service.Service
 
         public DoctorService()
         {
-            _doctorRepository = new DoctorRepository();
+            string appSettingsPath = Constants.AppSettingsPath; 
+            ISerializationService serializationService = new JsonDataSerializerService(); 
+
+            
+            _doctorRepository = new DoctorRepository(appSettingsPath, serializationService);
         }
 
         public Doctor Create(Doctor doctor)

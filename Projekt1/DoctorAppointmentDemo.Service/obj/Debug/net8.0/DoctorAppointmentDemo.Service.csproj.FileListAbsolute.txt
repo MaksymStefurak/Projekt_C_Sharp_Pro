@@ -15,3 +15,4 @@ D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\Docto
 D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Service.dll
 D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
 D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Service.dll
+D:\C_Sharp_Projekt\Projekt1\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.sourcelink.json
